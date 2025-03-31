@@ -1,0 +1,8 @@
+Initialization and propagation done in 0.029s
+Cluster movement constrained within cube with side length 23.53821282540752
+Starting Energy: -0.0487828669832989
+Energy at end of tooth 1: -5.503405067250739
+Energy at end of tooth 2: -5.502613077550719
+Energy at end of tooth 3: -5.502502084535072
+Energy at end of tooth 4: -5.502697946151083
+Annealing done in 2.886s.
