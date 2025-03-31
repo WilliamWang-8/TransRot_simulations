@@ -1,5 +1,5 @@
 # README
-Folders containing simulation setup and outputs conducted by William Wang under Prof. Robert Topper from July 2023 to September 2024. Simulations included Monte Carlo TransRot simulations for hydrogen fluoride (HF) & noble gas clusters and quantum optimizations of the HF₆ cluster using GAMESS and PSI4. 
+Folders containing simulation setup and outputs conducted by William Wang under Prof. Robert Topper from July 2023 to September 2024. Simulations included Monte Carlo TransRot simulations for hydrogen fluoride (HF) & noble gas clusters and quantum optimizations of the HF₆ cluster using GAMESS and PSI4. TransRot 1.6.3 was used for the simulations.
 
 Noble gas cluster simulations outputs were used to verify the accuracy of the Lennard-Jones potential model developed as outlined in the official TransRot GitHub repository wiki [here](https://github.com/steventopper/TransRot/wiki/Noble-gas-clusters-1:-Adding-noble-gases-to-TransRot) and [here](https://github.com/steventopper/TransRot/wiki/Noble-gas-clusters-2:-Optimizations-and-benchmarking).
 
